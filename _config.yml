@@ -144,14 +144,14 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  books:
+  projects:
     output: true
+  books:
+    output: false
   news:
     defaults:
       layout: post
-    output: true
-  projects:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
