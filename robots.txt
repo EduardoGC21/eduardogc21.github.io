@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://eduardogc21.github.io/sitemap.xml
+Sitemap: https://EduardoGC21.github.io/sitemap.xml
